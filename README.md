@@ -1,0 +1,2 @@
+# sotex
+一个简单的用来在windows桌面壁纸层播放视频的软件，类似于Wallpaper Engine的功能
